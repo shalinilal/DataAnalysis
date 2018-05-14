@@ -1,0 +1,27 @@
+Bond 46
+C:\sl\research_09\w_bonding\Bavets\B46_130406_pInAlAs_InGaN\R2C2\Transistors\I-Vd\MESFET
+C:\sl\research_09\w_bonding\Bavets\B46_130406_pInAlAs_InGaN\R2C2\Transistors\I-Vg\MESFET
+
+Bond 34
+C:\sl\research_09\w_bonding\Bavets\B34_121201_piInAlAs_InGaN\R3C4\Transistors\I-Vd\MESFET
+C:\sl\research_09\w_bonding\Bavets\B34_121201_piInAlAs_InGaN\R3C4\Transistors\I-Vg\MESFET
+
+
+Bond 23
+C:\sl\research_09\w_bonding\Bavets\Bond23_110312_iInAlAs_InGaN\R2C3\Transistors\I-VD\MESFET
+
+
+
+Bond 46 Metric file name
+
+
+Bond 34 Metric file name
+
+
+
+
+Bond 23 Metric file name
+
+
+
+

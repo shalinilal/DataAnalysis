@@ -1,0 +1,71 @@
+Bond 46
+C:\sl\research_09\w_bonding\Bavets\B46_130406_pInAlAs_InGaN\R2C2\Transistors\I-Vd\BAVET
+
+C:\sl\research_09\w_bonding\Bavets\B46_130406_pInAlAs_InGaN\R2C2\Transistors\I-Vg\BAVET
+
+Bond 34
+C:\sl\research_09\w_bonding\Bavets\B34_121201_piInAlAs_InGaN\R3C4\Transistors\I-Vd\BAVET
+
+C:\sl\research_09\w_bonding\Bavets\B34_121201_piInAlAs_InGaN\R3C4\Transistors\I-Vg\BAVET
+
+Bond 23
+C:\sl\research_09\w_bonding\Bavets\Bond23_110312_iInAlAs_InGaN\R2C3\Transistors\I-VD\BAVET
+
+C:\sl\research_09\w_bonding\Bavets\Bond23_110312_iInAlAs_InGaN\R2C3\Transistors\I-VG\BAVET
+
+Bond 35
+temperature 
+I-Vd
+C:\sl\research_09\w_bonding\Bavets\Bond35_121202_pInAlAs_InGaN\R2C4\Transistors\Temperature_series\I-VD\300K_before
+C:\sl\research_09\w_bonding\Bavets\Bond35_121202_pInAlAs_InGaN\R2C4\Transistors\Temperature_series\I-VD\220K
+
+I-Vg
+C:\sl\research_09\w_bonding\Bavets\Bond35_121202_pInAlAs_InGaN\R2C4\Transistors\Temperature_series\I-Vg\300K
+C:\sl\research_09\w_bonding\Bavets\Bond35_121202_pInAlAs_InGaN\R2C4\Transistors\Temperature_series\I-Vg\220K
+
+Bond 23
+I-Vd
+C:\sl\research_09\w_bonding\Bavets\Bond23_110312_iInAlAs_InGaN\R2C3\Transistors\I-VD\BAVET
+
+I-Vg
+C:\sl\research_09\w_bonding\Bavets\Bond23_110312_iInAlAs_InGaN\R2C3\Transistors\I-VG\BAVET
+
+
+
+Bond 46 Metric file name
+C:\sl\research_09\w_bonding\Bavets\B46_130406_pInAlAs_InGaN\R2C2\Transistors\I-Vd\BAVET
+B46_R2C2_IVd_Metrics
+B46_R2C2_IVd_Metrics_Solidgate
+
+C:\sl\research_09\w_bonding\Bavets\B46_130406_pInAlAs_InGaN\R2C2\Transistors\I-Vg\BAVET
+B46_R2C2_IVg_Metrics1
+B46_R2C2_IVg_Metrics2
+B46_R2C2_IVg_Metrics1_Solidgate
+B46_R2C2_IVg_Metrics2_Solidgate
+
+Bond 34 Metric file name
+C:\sl\research_09\w_bonding\Bavets\B34_121201_piInAlAs_InGaN\R3C4\Transistors\I-Vd\BAVET
+B34_R3C4_IVd_Metrics
+B34_R3C4_IVd_Metrics_Solidgate
+
+
+C:\sl\research_09\w_bonding\Bavets\B34_121201_piInAlAs_InGaN\R3C4\Transistors\I-Vg\BAVET
+B34_R3C4_IVg_Metrics1_Solidgate
+B34_R3C4_IVg_Metrics2_Solidgate
+
+
+Bond 23 Metric file name
+C:\sl\research_09\w_bonding\Bavets\Bond23_110312_iInAlAs_InGaN\R2C3\Transistors\I-VD\BAVET
+B23_R2C3_IVd_Metrics
+B23_R2C3_IVd_Metrics_Solidgate
+
+C:\sl\research_09\w_bonding\Bavets\Bond23_110312_iInAlAs_InGaN\R2C3\Transistors\I-VG\BAVET
+B23_R2C3_IVg_Metrics1_Solidgate
+B23_R2C3_IVg_Metrics2_Solidgate
+
+===========================================
+B46
+C:\sl\research_09\w_bonding\Bavets\B46_B34_B23_comparison\BAVET\I-Vd\LGA\Split
+Vds_on1_vs_B46_B34_B23_Vg0V_boxplot.txt
+
+Vds_on2_vs_B46_B34_B23_Vg0V_boxplot.txt
