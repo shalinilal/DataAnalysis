@@ -6,12 +6,13 @@ This software analyzes data from semiconductor electronic devices like transisto
 * Diodes
 * TLM Structures
 
-## Getting Started
-
 
 ### Prerequisites
+* Operating System: Microsoft Windows 7 version 6.1 64 bit or later versions (You can also use a Microsoft VM), 4GB RAM, 4 CPU
+* Tools: Matlab R2018a or later versions (should cantain Statistics and Machine Learning Toolbox)
 
-
+## Getting Started
+Coming soon
 ```
 Give examples
 ```
